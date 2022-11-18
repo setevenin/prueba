@@ -10,13 +10,13 @@ Sensor que mide la posición relativa con el norte magnético. El nodo compass s
 * **xAxis, yAxis, zAxis**: Si uno de estos campos tiene el valor FALSE, no se calculará el elemento del vector correspondiente y se devolverá NaN . El valor por defecto es que los tres ejes están habilitados . La modificación de estos campos permite elegir entre una brújula digital de uno, dos o tres ejes y especificar qué ejes se utilizarán.
 * **resolution**: Este campo permite definir la resolución del sensor, la resolución es el cambio más pequeño que es capaz de medir. Establecer este campo a -1 (por defecto) significa que el sensor tiene una resolución "infinita" (puede medir cualquier cambio infinitesimal). Este campo acepta cualquier valor en el intervalo (0.0, inf).
 
-![](https://img/importable_externproto_Compass)
+![](/img/importable_externproto_Compass)
 
 ## Código
 
 Se añade la librería math para poder calcular el arcotangente para que señale al norte.
 
-![](https://img/import_Compass)
+![](/img/import_Compass)
 
 <div class="pull-left"><img/init_Compass/></div> <div class="pull-right"><img/operation_Compass/></div>
 
@@ -29,7 +29,7 @@ Ni que decir tiene que al simularse, este no tiene coste, mientras que en la rea
 ---
 
 # GPS
-![](https://img/GPS)
+![](/img/GPS)
 
 El nodo GPS se utiliza para modelar un sensor de posicionamiento global (GPS) que puede obtener información sobre su posición absoluta desde el programa del controlador.
 
@@ -42,7 +42,7 @@ El nodo GPS se utiliza para modelar un sensor de posicionamiento global (GPS) qu
 * **speedNoise**: Este campo define la desviación estándar (expresada en metros) del ruido gaussiano añadido a las medidas de velocidad del GPS.
 * **speedResolution**: Este campo define la resolución de las mediciones de velocidad, la resolución es el menor cambio de velocidad que el GPS es capaz de medir. Establecer este campo a -1 (por defecto) significa que el sensor tiene una resolución "infinita" (puede medir cualquier cambio infinitesimal). Este campo acepta cualquier valor en el intervalo (0.0, inf).
 
-![](https://img/importable_externproto_GPS)
+![](/img/importable_externproto_GPS)
 
 ## Código
 
