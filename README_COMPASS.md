@@ -20,7 +20,7 @@ Se añade la librería math para poder calcular el arcotangente para que señale
 
 <div class="pull-left"><'img/init_Compass.png'></div> <div class="pull-right"><'img/operation_Compass.png'></div>
 <div>
-<p style = 'text-align:left;'>
+<p style = 'text-align:center;'>
 <img src="img/init_Compass.png">
 </p>
 <p style = 'text-align:right;'>
