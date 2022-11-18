@@ -18,15 +18,10 @@ Se añade la librería math para poder calcular el arcotangente para que señale
 
 ![](img/import_Compass.png)
 
-<div class="pull-left"><'img/init_Compass.png'></div> <div class="pull-right"><'img/operation_Compass.png'></div>
-<div>
-<p style = 'text-align:center;'>
-<img src="img/init_Compass.png">
-</p>
-<p style = 'text-align:right;'>
-<img src="img/operation_Compass.png">
-</p>
-</div>
+![](img/init_Compass.png)
+
+![](img/img/operation_Compass.png)
+
 
 ## Diferencias con la realidad
 
