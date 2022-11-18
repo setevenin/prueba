@@ -20,7 +20,7 @@ Se añade la librería math para poder calcular el arcotangente para que señale
 
 ![](img/init_Compass.png)
 
-![](img/img/operation_Compass.png)
+![](img/operation_Compass.png)
 
 
 ## Diferencias con la realidad
