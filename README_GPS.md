@@ -19,7 +19,7 @@ El nodo GPS se utiliza para modelar un sensor de posicionamiento global (GPS) qu
 
 ![](img/import_GPS.png)
 
-![](img/img/init_GPS.png)
+![](img/init_GPS.png)
 
 ![](img/operation_GPS.png)
 
