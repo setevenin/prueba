@@ -1,6 +1,6 @@
 
 # Compass
-![](/img/Compass.png)
+![](img/Compass.PNG)
 
 Sensor que mide la posición relativa con el norte magnético. El nodo compass simula una brújula de 1, 2, o 3 ejes. El nodo devuelve un vector que indica la dirección norte especificada por el campo “coordinateSystem” del nodo “Worldinfo”.
 
