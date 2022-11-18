@@ -24,7 +24,10 @@ Si varios motores, ya sea RotationalMotor , LinearMotor o una combinación de am
 
 ![](img/import_Motor.png)
 
-<div class="pull-left"><img/init_Motor.png/></div> <div class="pull-right"><img/operation_Motor.png/></div>
+![](img/init_Motor.png)
+
+![](img/operation_Motor.png)
+
 
 ## Diferencias con la realidad
 
