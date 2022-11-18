@@ -10,7 +10,7 @@ Sensor que mide la posición relativa con el norte magnético. El nodo compass s
 * **xAxis, yAxis, zAxis**: Si uno de estos campos tiene el valor FALSE, no se calculará el elemento del vector correspondiente y se devolverá NaN . El valor por defecto es que los tres ejes están habilitados . La modificación de estos campos permite elegir entre una brújula digital de uno, dos o tres ejes y especificar qué ejes se utilizarán.
 * **resolution**: Este campo permite definir la resolución del sensor, la resolución es el cambio más pequeño que es capaz de medir. Establecer este campo a -1 (por defecto) significa que el sensor tiene una resolución "infinita" (puede medir cualquier cambio infinitesimal). Este campo acepta cualquier valor en el intervalo (0.0, inf).
 
-![](/img/importable_externproto_Compass)
+![](img/importable_externproto_Compass)
 
 ## Código
 
